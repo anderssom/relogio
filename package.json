@@ -1,0 +1,8 @@
+{
+  "name": "relogio",
+  "version": "1.0.0",
+  "description": "um relogoio digital para ver as horas",
+  "main": "index.js",
+  "author": "anderson",
+  "license": "MIT"
+}

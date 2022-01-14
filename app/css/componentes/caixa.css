@@ -1,0 +1,12 @@
+.caixa{
+    text-align: center;
+    border-radius: 10px 0;
+    left: 50%; top: 50%;
+    box-shadow: 1px 2px 10px;
+    width: 70%;
+    padding: 20px;
+    max-width: 400px;
+    position: absolute;
+    background-color: rgb(210, 105, 30);
+    transform: translate(-50%, -50%); 
+}
